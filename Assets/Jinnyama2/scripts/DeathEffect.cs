@@ -14,7 +14,7 @@ public class DeathEffect : MonoBehaviour
 
     private void Awake()
     {
-        SpriteRenderer spriteRenderer = GetComponent<SpriteRenderer>();
+         spriteRenderer = GetComponent<SpriteRenderer>();
  
     }
 
